@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Legendtkl
+subtitle: Future is not written
 description:
-author: John Doe
-language:
+author: Kelu Tao
+language: 
 timezone:
 
 # URL
@@ -63,7 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: hexo-theme-next
+#theme: hexo-theme-next
+theme: landscape
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
